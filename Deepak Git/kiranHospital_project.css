@@ -1,0 +1,125 @@
+.header{
+    display: flex;
+}
+#num1{
+    cursor: pointer;
+    color: rgb(79, 172, 219);
+    margin-left: 650px;
+    font-size: 25px;
+}
+#num2{
+    cursor: pointer;
+    color: rgb(79, 172, 219);
+    font-size: 25px;
+}
+.nav:{
+    font-size: 29px;
+    margin-left: 145px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#home:hover{
+    color: brown;
+    cursor: pointer;
+    
+}
+#about:hover{
+    color: brown;
+    cursor: pointer;
+}
+#Specialities:hover{
+    color: brown;
+    cursor: pointer;
+}
+#doc:hover{
+    color: brown;
+    cursor: pointer;
+}
+#health:hover{
+    color: brown;
+    cursor: pointer;
+}
+#patient:hover{
+    color: brown;
+    cursor: pointer;
+}
+#Visitors:hover{
+    color: brown;
+    cursor: pointer;
+}
+#college:hover{
+    color: brown;
+    cursor: pointer;
+}
+#more:hover{
+    color: brown;
+    cursor: pointer;
+}
+#blood{
+    background-color:rgb(98, 98, 243,0.2);
+    color: rgb(103, 103, 241);
+    font-size: large;
+    text-align:start ;
+
+}
+#but{
+    background-color: rgb(37, 151, 37);
+    color: aliceblue;
+    border-radius: 5px;
+    margin-left: 698px;
+    cursor: pointer;
+}
+#but2{
+    background-color: rgb(37, 151, 37);
+    color: aliceblue;
+    border-radius: 5px;
+    margin-left: 807px;
+    cursor: pointer;
+}
+.pic{
+    border-radius: 15px;
+    margin-left: 65px;
+}
+.pic2{
+    border-radius: 25px;
+    margin-left: -65px;
+    margin-bottom: -105px;
+}
+.lor{
+text-align: justify;
+margin-left: 590px;
+margin-top: -265px;
+}
+.but3{
+    width: 75px; height: 35px;
+    margin-left: 680px;
+    font-weight: bold;
+    background-color: rgb(96, 96, 239);
+    color: aliceblue;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.but4{
+    width: 75px; height: 35px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(77, 126, 240);
+    border-radius: 3px;
+    cursor: pointer;
+}
+.star{
+    border: 2px solid rgb(242, 240, 235);
+    border-radius: 95px 95px 95px 0px;
+    margin-left: 185px;
+    margin-right: 285px;
+}
+#foot{
+    margin-left: 480px;
+}
+#ara{
+    text-align: center;
+}
+.but{
+margin-left: 80px;
+margin-top: -15px;
+border-radius: 165px;
+}
